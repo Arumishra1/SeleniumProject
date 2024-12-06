@@ -1,0 +1,78 @@
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 20 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 25 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-29 15:19:59 INFO  Utils:112 - [TestNG] Running:
+  /private/var/folders/1l/mfz1xq3d6rdgm90lxc6b74y80000gn/T/testng-eclipse--631435876/testng-customsuite.xml
+
+2024-11-29 15:20:09 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2024-11-29 15:20:09 INFO  TC_001_Accregistration:21 - TC started
+2024-11-29 15:20:09 INFO  TC_001_Accregistration:30 - Accepted cookies
+2024-11-29 15:20:10 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@5f14a673: 245 ms
+2024-11-29 15:20:10 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@726a17c4: 1 ms
+2024-11-29 15:20:10 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@57b9e423: 20 ms
+2024-11-29 15:20:10 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@30404dba: 142 ms
+2024-11-29 15:20:10 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5bfc257: 31 ms
+2024-11-29 15:20:10 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@34523d46: 0 ms
+2024-11-29 16:39:37 INFO  Utils:112 - [TestNG] Running:
+  /Users/arushikhamishra/Desktop/seleniumwebdriver/project/MASTER.xml
+
+2024-11-29 16:39:55 INFO  TC_001_Accregistration:22 - TC started
+2024-11-29 16:39:55 INFO  TC_001_Accregistration:31 - Accepted cookies
+2024-11-29 16:41:42 INFO  Utils:112 - [TestNG] Running:
+  /Users/arushikhamishra/Desktop/seleniumwebdriver/project/MASTER.xml
+
+2024-11-29 16:43:03 INFO  TC_001_Accregistration:22 - TC started
+2024-11-29 16:43:03 INFO  TC_001_Accregistration:31 - Accepted cookies
+2024-11-29 16:47:37 INFO  Utils:112 - [TestNG] Running:
+  /Users/arushikhamishra/Desktop/seleniumwebdriver/project/Crossbrowsertesting.xml
+
+2024-11-29 16:47:51 INFO  TC_001_Accregistration:22 - TC started
+2024-11-29 16:47:52 INFO  TC_001_Accregistration:31 - Accepted cookies
+2024-11-29 16:48:11 INFO  TC_001_Accregistration:22 - TC started
+2024-11-29 16:48:11 INFO  TC_001_Accregistration:31 - Accepted cookies
+2024-11-29 16:48:41 INFO  Utils:112 - [TestNG] Running:
+  /Users/arushikhamishra/Desktop/seleniumwebdriver/project/Crossbrowsertesting.xml
+
+2024-11-29 16:49:07 INFO  TC_001_Accregistration:22 - TC started
+2024-11-29 16:49:07 INFO  TC_001_Accregistration:22 - TC started
+2024-11-29 16:49:09 INFO  TC_001_Accregistration:31 - Accepted cookies
+2024-11-29 16:49:09 INFO  TC_001_Accregistration:31 - Accepted cookies
+2024-11-29 16:50:54 INFO  Utils:112 - [TestNG] Running:
+  /Users/arushikhamishra/Desktop/seleniumwebdriver/project/Crossbrowsertesting.xml
+
+2024-11-29 16:51:07 INFO  TC_001_Accregistration:22 - TC started
+2024-11-29 16:51:09 INFO  TC_001_Accregistration:31 - Accepted cookies
+2024-11-29 16:51:12 INFO  TC_001_Accregistration:22 - TC started
+2024-11-29 16:51:12 INFO  TC_001_Accregistration:31 - Accepted cookies
+2024-11-29 17:05:28 INFO  Utils:112 - [TestNG] Running:
+  /Users/arushikhamishra/Desktop/seleniumwebdriver/project/MASTER.xml
+
+2024-11-29 17:05:40 INFO  TC_001_Accregistration:22 - TC started
+2024-11-29 17:05:40 INFO  TC_001_Accregistration:31 - Accepted cookies

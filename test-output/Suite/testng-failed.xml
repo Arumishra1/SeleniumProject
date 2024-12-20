@@ -8,13 +8,20 @@
     <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="Testcases.TC_006_Scrolldown">
+      <class name="Testcases.Login_005_DataDrivenTC">
         <methods>
           <include name="setup"/>
-          <include name="scrolldowning"/>
+          <include name="login" invocation-numbers="1 2"/>
           <include name="teradown"/>
         </methods>
-      </class> <!-- Testcases.TC_006_Scrolldown -->
+      </class> <!-- Testcases.Login_005_DataDrivenTC -->
+      <class name="Testcases.TC_004">
+        <methods>
+          <include name="register"/>
+          <include name="setup"/>
+          <include name="teradown"/>
+        </methods>
+      </class> <!-- Testcases.TC_004 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

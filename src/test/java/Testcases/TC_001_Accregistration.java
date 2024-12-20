@@ -21,15 +21,18 @@ import PageObjects.Accountregistrationpage;
 import PageObjects.HOMEPAGE;
 import PageObjects.LoginPage;
 
+
+
+
+
 @Test
 public class TC_001_Accregistration extends BaseClass  {
 
 	
-	public void accountregistration() throws InterruptedException {	
+public void accountregistration() throws InterruptedException {	
 
-		
 			
-		HOMEPAGE Hp= new HOMEPAGE(driver);
+HOMEPAGE Hp= new HOMEPAGE(driver);
 
 Accountregistrationpage reg= new Accountregistrationpage(driver);
 reg.acceptcookie();

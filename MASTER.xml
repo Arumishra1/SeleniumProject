@@ -13,6 +13,10 @@
 
     <classes>
       <class name="Testcases.Login_005_DataDrivenTC"/>
+      <class name="Testcases.Login_001_Accregistration"/>
+      <class name="Testcases.Login_002_Login"/>
+      <class name="Testcases.Login_004"/>
+      <class name="Testcases.Login_006_Scrolldown"/>
     </classes>
     
   </test> <!-- Test -->

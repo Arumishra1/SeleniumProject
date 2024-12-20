@@ -67,9 +67,8 @@ public Properties p;
 	@AfterClass
 	public void teradown() {
 		//if(this.driver != null){
-	        driver.quit();
-	    
-		
+	       driver.quit();
+	   	
 		
 	}
 	
@@ -90,34 +89,28 @@ public String randomnos() {
 		
 	}
 
-public String capturescreenshot(String tname) {
+public String captureScreen(String tname) throws IOException {
+
+	String timeStamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
+			
+	TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
+	File sourceFile = takesScreenshot.getScreenshotAs(OutputType.FILE);
 	
-	String timestamp= new SimpleDateFormat("YYYY-MM-DD.hh.mm").format(new Date());
+	String targetFilePath=System.getProperty("user.dir")+".\\screenshots\\" + tname + "_" + timeStamp + ".png";
+	File targetFile=new File(targetFilePath);
 	
-	
-	TakesScreenshot screenshot= (TakesScreenshot) driver;
-	File sourcefile= screenshot.getScreenshotAs(OutputType.FILE);
-	
-	String targetfilepath= System.getProperty("user.dir")+"\\Screenshots\\" + tname + "--" + timestamp;
-	
-	File targetfile=new File(targetfilepath);
-	
-	sourcefile.renameTo(targetfile);
-	
-	
-	
-	
-	
-	
-	return targetfilepath;
-	
-	
-	
-	
-	
-	
-	
-	
+	sourceFile.renameTo(targetFile);
+		
+	return targetFilePath;
+
 }
+
+	
+	
+	
+	
+	
+	
+
 }
 

@@ -4,6 +4,11 @@ import org.testng.annotations.Test;
 import org.testng.annotations.Test;
 import org.testng.annotations.Test;
 import org.testng.annotations.Test;
+import org.testng.annotations.Test;
+
+import static org.testng.Assert.assertEquals;
+import static org.testng.Assert.assertTrue;
+
 import org.apache.commons.lang3.RandomStringUtils;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -16,11 +21,11 @@ import PageObjects.Accountregistrationpage;
 import PageObjects.HOMEPAGE;
 import PageObjects.LoginPage;
 
+@Test
 public class TC_001_Accregistration extends BaseClass  {
 
 	
-	@Test
-	public void accountregistration() {	
+	public void accountregistration() throws InterruptedException {	
 
 		
 			
@@ -29,20 +34,18 @@ public class TC_001_Accregistration extends BaseClass  {
 Accountregistrationpage reg= new Accountregistrationpage(driver);
 reg.acceptcookie();
 logger.info("Accepted cookies");
-		
-try {
 
-		}	
-	catch(Exception e)
-		
-	{
-		logger.error("TC failed");
-		logger.debug("Debug logs");
-		
+Thread.sleep(3000);
+reg.clicktryforfree();
 
-			
-		}
-		
+
+Thread.sleep(5000);
+
+ boolean heading= reg.headingvisible();
+assertTrue(heading);
+
+logger.info(heading);
+
 	}
 
 	}

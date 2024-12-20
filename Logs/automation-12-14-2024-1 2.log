@@ -1,0 +1,12 @@
+2024-12-14 18:47:49 INFO  Utils:112 - [TestNG] Running:
+  /Users/arushikhamishra/Desktop/seleniumwebdriver/project/MASTER.xml
+
+2024-12-14 18:47:58 INFO  TC_001_Accregistration:31 - Accepted cookies
+2024-12-14 18:48:04 INFO  TC_002_Login:30 - Moving the cursor to the element
+2024-12-14 18:48:08 INFO  TC_002_Login:42 - succeful cookies
+2024-12-14 18:51:22 INFO  Utils:112 - [TestNG] Running:
+  /Users/arushikhamishra/Desktop/seleniumwebdriver/project/MASTER.xml
+
+2024-12-14 18:51:30 INFO  TC_001_Accregistration:31 - Accepted cookies
+2024-12-14 18:51:36 INFO  TC_002_Login:30 - Moving the cursor to the element
+2024-12-14 18:51:49 INFO  TC_002_Login:42 - succeful cookies
